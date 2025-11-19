@@ -9,6 +9,10 @@ Small experiments while learning ESP32 DEVKITv1 — day-by-day notes, code, and 
 **What I learned:** connect to wifi or create a wifi access point to perform tasks locally.
 **Hardware:** ESP32 DevKitv1.
 
+## Day 3 - Web Server
+**What I learned:** HTML integration to web server.
+**Hardware:** ESP32 DevKitv1.
+
 ## Run the example
 1. Open `Day-1/blink-arduino/blink.ino` in Arduino IDE or PlatformIO.
 2. Select board `ESP32 Dev Module`.
