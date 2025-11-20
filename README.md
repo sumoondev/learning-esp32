@@ -2,19 +2,19 @@
 Small experiments while learning ESP32 DEVKITv1 — day-by-day notes, code, and wiring.
 
 ## Day 1 — Blinking LED
-**What I learned:** basic pin control using Arduino core for ESP32.  
+**What I learned:** basic pin control using Arduino core for ESP32.<br>
 **Hardware:** ESP32 DevKitv1.  
 
 ## Day 2 - Simple Wifi Server and Wifi Access Point
-**What I learned:** connect to wifi or create a wifi access point to perform tasks locally.
+**What I learned:** connect to wifi or create a wifi access point to perform tasks locally.<br>
 **Hardware:** ESP32 DevKitv1.
 
 ## Day 3 - Web Server
-**What I learned:** HTML integration to web server.
+**What I learned:** HTML integration to web server.<br>
 **Hardware:** ESP32 DevKitv1.
 
 ## Day 4 - Bluetooth
-**What I learned:** Create Bluetooth connection and Read serial data which can be provided using application 'Serial Bluetooth Connection' from playstore.
+**What I learned:** Create Bluetooth connection and Read serial data which can be provided using application 'Serial Bluetooth Connection' from playstore.<br>
 **Hardware:** ESP32 DevKitv1.
 
 ## Run the example
