@@ -17,6 +17,10 @@ Small experiments while learning ESP32 DEVKITv1 — day-by-day notes, code, and 
 **What I learned:** Create Bluetooth connection and Read serial data which can be provided using application 'Serial Bluetooth Connection' from playstore.<br>
 **Hardware:** ESP32 DevKitv1.
 
+## Day 5 - Touch and Touch Capacitive (Builtin) Sensor
+**What I learned:** Read data from touch sensor and Learned more about builtin touch capacitive sensor and their pins.<br>
+**Hardware:** ESP32 DevKitv1, Touch Sensor.
+
 ## Run the example
 1. Open `Day-1/blink-arduino/blink.ino` in Arduino IDE or PlatformIO.
 2. Select board `ESP32 Dev Module`.
