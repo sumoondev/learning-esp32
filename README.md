@@ -21,6 +21,10 @@ Small experiments while learning ESP32 DEVKITv1 — day-by-day notes, code, and 
 **What I learned:** Read data from touch sensor and Learned more about builtin touch capacitive sensor and their pins.<br>
 **Hardware:** ESP32 DevKitv1, Touch Sensor.
 
+## Day 6 - Serial Monitor
+**What I learned:** To Display and Read data from serial monitor.<br>
+**Hardware:** ESP32 DevKitv1.
+
 ## Run the example
 1. Open `Day-1/blink-arduino/blink.ino` in Arduino IDE or PlatformIO.
 2. Select board `ESP32 Dev Module`.
