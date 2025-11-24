@@ -35,7 +35,7 @@ Small experiments while learning ESP32 DEVKITv1 — day-by-day notes, code, and 
 3. Upload.
 
 # ESP32 DevKit v1 Pin diagram
-<image src="/workspaces/learning-esp32/ESP32-DevKit-V1-Pinout-Diagram.png">
+<image src="ESP32-DevKit-V1-Pinout-Diagram.png">
 
 # Credit
 * https://www.youtube.com/playlist?list=PLlLe2PpVuiVJ7bdUtQHkXIlMzqxeOtrqd
