@@ -25,6 +25,10 @@ Small experiments while learning ESP32 DEVKITv1 — day-by-day notes, code, and 
 **What I learned:** To Display and Read data from serial monitor.<br>
 **Hardware:** ESP32 DevKitv1.
 
+## Day 7 - Servo Motor
+**What I learned:** To interface Servo Motor.<br>
+**Hardware:** ESP32 DevKitv1, Servo Motor.
+
 ## Run the example
 1. Open `Day-1/blink-arduino/blink.ino` in Arduino IDE or PlatformIO.
 2. Select board `ESP32 Dev Module`.
