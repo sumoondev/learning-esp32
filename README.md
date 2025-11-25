@@ -29,6 +29,10 @@ Small experiments while learning ESP32 DEVKITv1 — day-by-day notes, code, and 
 **What I learned:** To interface Servo Motor.<br>
 **Hardware:** ESP32 DevKitv1, Servo Motor.
 
+## Day 8 - Relay Module
+**What I learned:** To interface Relay Module.<br>
+**Hardware:** ESP32 DevKitv1, Relay Module, Bulb setup.
+
 ## Run the example
 1. Open `Day-1/blink-arduino/blink.ino` in Arduino IDE or PlatformIO.
 2. Select board `ESP32 Dev Module`.
