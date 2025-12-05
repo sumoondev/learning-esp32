@@ -1,4 +1,4 @@
-# learning-esp32
+# learning-esp32-AND-arduino
 Small experiments while learning ESP32 DEVKITv1 — day-by-day notes, code, and wiring.
 
 ## Day 1 — Blinking LED
@@ -36,6 +36,10 @@ Small experiments while learning ESP32 DEVKITv1 — day-by-day notes, code, and 
 ## Day 9 - DTH Sensor
 **What I learned:** To interface DTH11 sensor(Temp. and Humidity Sensor).<br>
 **Hardware:** ESP32 DevKitv1, DTH11 sensor.
+
+## Day 10 - Matrix Keypad
+**What I learned:** To interface Matrix Keypad.<br>
+**Hardware:** Arduino Uno, Matrix Keypad, LED, Resistor.
 
 ## Run the example
 1. Open `Day-1/blink-arduino/blink.ino` in Arduino IDE or PlatformIO.
