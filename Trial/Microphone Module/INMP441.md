@@ -149,15 +149,3 @@ For **INMP441**:
 Plotter shows waveform visually.
 
 ---
-
-# 🎁 Optional Extras
-
-Tell me if you want:
-
-✅ FFT spectrum analyzer (frequency display)
-✅ Real-time dB sound meter
-✅ ESP-IDF version
-✅ Save audio to SD card as WAV
-✅ Stream audio over WiFi
-
-Just say the word!
